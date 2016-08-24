@@ -1,0 +1,38 @@
+/* Inserta tu CSS aqui */
+div{
+	display: block;
+	background-color: #898487;
+	border: 1.2px solid;
+	height: 110px;
+	width: 110px;
+	margin-bottom: 10px;
+}
+.larga{
+	position: relative;
+	top: 0;
+	right: 0;
+	width: 385px;
+	height: 145px;
+
+
+}
+.uno{
+	position: absolute;
+	float: left;
+	margin-top: 15px;
+	margin-left: 12px;
+}
+
+.dos{
+	position: absolute;
+	float: right;
+	margin-top: 15px;
+	margin-left: 136px;
+}
+.tres{
+	position: absolute;
+	float: right;
+	margin-top: 15px;
+	margin-left: 260px;
+
+}
